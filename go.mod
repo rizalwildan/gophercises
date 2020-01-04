@@ -1,3 +1,5 @@
-module github.com/rizalwildan/gopherchises
+module github.com/rizalwildan/gophercises
 
 go 1.13
+
+require gopkg.in/yaml.v2 v2.2.7
